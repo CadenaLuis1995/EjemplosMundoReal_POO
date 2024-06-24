@@ -51,7 +51,7 @@ if __name__ == "__main__":
     cine.show_seating()
 
     # Reservar algunos asientos
-    cine.reserve_seat(1, 3)
+    cine.reserve_seat(1, 4)
     cine.reserve_seat(3, 5)
     cine.reserve_seat(5, 10)
 
